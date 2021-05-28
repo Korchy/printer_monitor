@@ -1,2 +1,3 @@
-# printer_monitor
-Printer Monitor
+# Printer Monitor
+
+Monitor printer activity
